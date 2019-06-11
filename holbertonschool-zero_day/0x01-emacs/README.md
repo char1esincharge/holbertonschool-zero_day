@@ -1,0 +1,1 @@
+in this project, we will be going over basic commands essential to the operation of Emacs as an editor.  
