@@ -1,0 +1,1 @@
+This project consists of tasks designed to give students a working knowledge of git as well as developing better habits as future contributors in this shared universe
