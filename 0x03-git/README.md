@@ -1,0 +1,1 @@
+This project focuses on git and its proper use, instilling better habits and developing a generation of cleaner, more organized coders to help write this brave, shared universe.   
