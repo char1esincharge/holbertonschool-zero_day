@@ -1,1 +1,0 @@
-This is a README about this README. The first README of, what is looking to be, an obscene amount of README's I will be typing in the near future.  
