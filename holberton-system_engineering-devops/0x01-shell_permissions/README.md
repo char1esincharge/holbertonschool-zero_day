@@ -1,0 +1,1 @@
+Following Shell basics is this project surrounding file users, superusers, owners, groups and the permissions they are allowed and how to change those permissions. Permissions to read, write or execute or 7's across the board.       
